@@ -2,5 +2,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=be7a6ffc_002D50f2_002D4bd4_002D8d98_002D992dc4528ec2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Can_Sort_Via_Selection_Sorting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Selection_Sorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Heap_Sorting&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
