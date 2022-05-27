@@ -3,5 +3,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Selection_Sorting&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.Tests.Can_Sort_Via_Heap_Sorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.TestsForPerformance.Can_Sort_Via_Selection_Sorting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A563CAC7-DE0E-45FC-89FD-16C4C832A32D::.NETCoreApp,Version=v3.1::Tests.TestsForPerformance.Heap_Sorting&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
