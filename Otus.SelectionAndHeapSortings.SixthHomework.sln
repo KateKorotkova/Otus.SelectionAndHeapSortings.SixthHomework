@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.SelectionAndHeapSortings.SixthHomework", "Otus.SelectionAndHeapSortings.SixthHomework\Otus.SelectionAndHeapSortings.SixthHomework.csproj", "{4EE09F13-9BEF-4661-8403-ACAC9AE74A33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{A563CAC7-DE0E-45FC-89FD-16C4C832A32D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4EE09F13-9BEF-4661-8403-ACAC9AE74A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EE09F13-9BEF-4661-8403-ACAC9AE74A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EE09F13-9BEF-4661-8403-ACAC9AE74A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A563CAC7-DE0E-45FC-89FD-16C4C832A32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A563CAC7-DE0E-45FC-89FD-16C4C832A32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A563CAC7-DE0E-45FC-89FD-16C4C832A32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A563CAC7-DE0E-45FC-89FD-16C4C832A32D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
